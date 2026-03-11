@@ -4,5 +4,6 @@
 * Avocado
 * Lime
 * Salt
+* Tomatoes
 
 ## Instructions
